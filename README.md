@@ -1,0 +1,1 @@
+This repository demonstrates a common error in recursive functions: the improper handling of base cases, specifically when dealing with negative inputs in a factorial function. The original code lacks a check for negative inputs, causing infinite recursion and a RecursionError. The solution implements this check and prevents the error.
